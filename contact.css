@@ -1,0 +1,115 @@
+.red-text {
+  color: red;
+}
+
+h2 {
+  font-family: Ariel, Monospace;
+  font-size: 28px;
+
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h3 {
+  font-family: Ariel, Monospace;
+  font-size: 18px;
+
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.padding {
+
+  padding-top: 15px;
+}
+
+.padding-bottom {
+
+  padding-bottom: 15px;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.thin-black-border {
+  border-color: #000000;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 50%;
+  max-width: 250px;
+  margin: 15px 15px;
+}
+
+.blurb {
+  display: flex;
+  align-items: center;
+}
+
+.intro-text,
+.body-text {
+  font-family: Ariel, Monospace;
+  font-size: 20px;
+}
+
+.navbar,
+.navbar-brand {
+  font-family: Ariel, Monospace;
+  font-size: 24px;
+  background: #000;
+}
+
+.background {
+  background: #bbb;
+}
+
+body {
+  background-color: #000000;
+  padding-top: 5rem;
+}
+
+.portfolio {
+  height: 100%;
+  width: 75%;
+  vertical-align: middle;
+  horizontal-align: middle;
+  background: #bbb
+}
+
+#picsize {
+  max-width: 320px;
+  margin: 20px;
+
+}
+
+.contact {
+  width: 275px;
+  height: 275px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p.padding-for-text {
+  padding-top: 50px;
+}
+
+.contact-me {
+  font-size: 30px;
+}
+
+.left-right-spacing {
+  padding-left: 4%;
+  padding-right: 4%;
+}
+
+.center-image {
+  margin-left: auto;
+  margin-right: auto;
+}

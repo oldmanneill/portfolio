@@ -1,0 +1,79 @@
+.xAndOs{
+  font-family: 'Architects Daughter', cursive;
+  font-size: 60px;
+}
+#z0{
+  position:absolute;
+  top:25px;
+  left:40px;
+}
+#z1{
+  position:absolute;
+  top:25px;
+  left:148px;
+}
+#z2{
+  position:absolute;
+  top:25px;
+  left:260px;
+}
+#z7{
+  position:absolute;
+  top:136px;
+  left:40px;
+}
+#z8{
+  position:absolute;
+  top:136px;
+  left:148px;
+}
+#z3{
+  position:absolute;
+  top:136px;
+  left:260px;
+}
+#z6{
+  position:absolute;
+  top:247px;
+  left:40px;
+}
+#z5{
+  position:absolute;
+  top:247px;
+  left:148px;
+}
+#z4{
+  position:absolute;
+  top:247px;
+  left:260px;
+}
+button{
+  padding:85px 50px 0px 20px;
+  background: none;
+  border:none;
+}
+#p1, #p2, #x1, #x2, .playAgain{
+  background-color: gray;
+  border: black;
+  padding: 10px 20px 10px 20px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  border-radius: 4px;
+  font-size: 16px;
+  display: inline-block;
+  color: white;
+  
+}
+span {
+  padding: 5px;
+}
+div {
+  font-family: 'PT Mono', monospace;
+}
+.whosTurn{
+  margin-left:auto;
+  margin-right:auto;
+}
+.blurb {
+  max-width: 400px;
+  font-size: 18px;
+}
